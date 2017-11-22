@@ -1,1 +1,1 @@
-(https://raw.github.com/asa297/MyRecyclerView-Swipe/Capture.jpg)
+(https://raw.github.com/asa297/MyRecyclerView-Swipe/blob/master/Capture.JPG)
